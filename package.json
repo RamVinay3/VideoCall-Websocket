@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "we will use websockets to check connection b/w peers",
   "main": "index.js",
+  "engines": {
+    "node":"22.5.1"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
